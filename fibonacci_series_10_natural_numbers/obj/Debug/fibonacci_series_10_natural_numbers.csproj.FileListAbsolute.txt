@@ -1,0 +1,7 @@
+D:\Mphasis-B2\Day-4\fibonacci_series_10_natural_numbers\fibonacci_series_10_natural_numbers\bin\Debug\fibonacci_series_10_natural_numbers.exe.config
+D:\Mphasis-B2\Day-4\fibonacci_series_10_natural_numbers\fibonacci_series_10_natural_numbers\bin\Debug\fibonacci_series_10_natural_numbers.exe
+D:\Mphasis-B2\Day-4\fibonacci_series_10_natural_numbers\fibonacci_series_10_natural_numbers\bin\Debug\fibonacci_series_10_natural_numbers.pdb
+D:\Mphasis-B2\Day-4\fibonacci_series_10_natural_numbers\fibonacci_series_10_natural_numbers\obj\Debug\fibonacci_series_10_natural_numbers.csproj.AssemblyReference.cache
+D:\Mphasis-B2\Day-4\fibonacci_series_10_natural_numbers\fibonacci_series_10_natural_numbers\obj\Debug\fibonacci_series_10_natural_numbers.csproj.CoreCompileInputs.cache
+D:\Mphasis-B2\Day-4\fibonacci_series_10_natural_numbers\fibonacci_series_10_natural_numbers\obj\Debug\fibonacci_series_10_natural_numbers.exe
+D:\Mphasis-B2\Day-4\fibonacci_series_10_natural_numbers\fibonacci_series_10_natural_numbers\obj\Debug\fibonacci_series_10_natural_numbers.pdb
